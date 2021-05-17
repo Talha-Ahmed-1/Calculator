@@ -1,2 +1,2 @@
 # Calculator
-Simple calculator for practice of Tkinter in Python.
+Simple calculator for practice of Tkinter in Python with interactive GUI.
